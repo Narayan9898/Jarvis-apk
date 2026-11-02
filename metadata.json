@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "JARVIS AI — Advanced Personal Android Assistant with voice, Telugu/Hindi/English NLU, and device automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

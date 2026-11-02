@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="greeting_english">Hello! I am JARVIS. How can I help you today?</string>
+    <string name="greeting_telugu">నమస్కారం! నేను JARVIS. మీకు ఏం సహాయం చేయాలి?</string>
+    <string name="greeting_hindi">नमस्ते! मैं JARVIS हूँ। मैं आज आपकी क्या सहायता कर सकता हूँ?</string>
+</resources>

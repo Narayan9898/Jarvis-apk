@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer mechanical ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,20 A 34,34 0 1,0 54,88 A 34,34 0 1,0 54,20" />
+    <!-- Segmented arc reactor tick marks -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2.5"
+        android:pathData="M 54,16 L 54,24 M 54,84 L 54,92 M 16,54 L 24,54 M 84,54 L 92,54 M 27,27 L 33,33 M 75,75 L 81,81 M 81,27 L 75,33 M 27,81 L 33,75" />
+    <!-- Intermediate energy ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:pathData="M 54,28 A 26,26 0 1,0 54,80 A 26,26 0 1,0 54,28" />
+    <!-- Inner triangular core elements -->
+    <path
+        android:strokeColor="#40C4FF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,34 L 71,64 L 37,64 Z" />
+    <!-- Center glowing core circle -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 54,44 A 10,10 0 1,0 54,64 A 10,10 0 1,0 54,44" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,49 A 5,5 0 1,0 54,59 A 5,5 0 1,0 54,49" />
+</vector>
